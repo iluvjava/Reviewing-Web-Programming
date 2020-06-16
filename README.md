@@ -10,3 +10,6 @@ Let's Review some of of the basics of web development over the summer.
 * This repo is public but it's intended to share among acquantances and friends around me. 
 
 References: [CSE 154 Summer 2019](https://courses.cs.washington.edu/courses/cse154/19su/calendar/index.html)
+
+## How to Code ##
+* Use VS-Code for web programming, please go ahead and download it on your PC. You may use editor but this is what I assume people are using for web programming. 
