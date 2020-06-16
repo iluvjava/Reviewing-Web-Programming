@@ -54,5 +54,6 @@ This tag will be ignored by the broswer, it's meant for annotating HTML content.
 
 * Do that for the following website: 
     https://courses.cs.washington.edu/courses/cse154/19su/lectures/lec02-html-css/code/koala-page-lec02/koala.html
+* Observe the list of common html tags, and hover your mouse over the in the developer panel to learn how they look like on the page.  
 
 ## CSS ##
