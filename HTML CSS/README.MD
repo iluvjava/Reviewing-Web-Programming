@@ -4,6 +4,7 @@
 * Objective: 
     * Know that HTLM stands for. 
     * Know basic elements of HTML. 
+    * Know what is CSS and what to learn about CSS. 
 * Resources: 
     * [Link]( 
     https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) What is HTML. 
