@@ -96,7 +96,7 @@ The letter `p` at the start of the curly braces denotes the target of the stylin
 This question needs to be addressed before proceeding further into learning about it, CSS is complicated and it's not beautifully design, compare to like, JAVA, and C++, but the good thing is, it has rules and it's deterministic, however it's hard to understand. Here are a list of aspects that make it complicated. 
 
 1. How to select an element via CSS selector? 
-  * How does all the CSS selector works and how to use them creatively to achieve it needs understandings in all major aspects of the things. 
+    * How does all the CSS selector works and how to use them creatively to achieve something needs understandings in all major aspects of the things. 
 2. How does inheritance works in the CSS?
 3. How does rules override and changes when there are many of them?
 4. How does each rule style the web page?
