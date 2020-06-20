@@ -1,3 +1,6 @@
+# HTML CSS Model #
+This model contains several Sub-modules that are under this directory, this file is like a table of Contents. 
+
 ## HTML CSS ##
 
 
@@ -10,6 +13,12 @@
     https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) What is HTML. 
     * [Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) What is CSS 
 
+* Stuff Contained: 
+  * This Document Itself. 
+  * CSS Selector, DOM Model
+    * DOM Model for the web page. 
+    * How to select elements(tags) in HTML via CSS. 
+
 ## Key terms ## 
 * HTML: Hypertext Markup Lauguage
 * CSS: Styling Web pages. 
@@ -18,6 +27,7 @@
 * JASON: A protolcol of encoding information, which can be read and parsed by javascript. (Like Serializable in Java)
 * REST APIS: Webserver's end points that handle client's requests. 
 * SQL: The server that store data, or just the "Database"
+* DOM: Document Objects Model
 
 ## HTML Elements ##
 ```
