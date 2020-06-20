@@ -18,7 +18,7 @@ CSS selectors selects a lot of tags and it has its syntax. Here is a list of gui
 
 
 ## HTML Special Attributes ##
-There are some attributes that are kinda special and related to the CSS selectors. They are created to make selecting elemnts on the page via CSS more friendly. 
+There are some attributes that are kinda special and related to the CSS selectors. They are created to make selecting elements on the page via CSS more friendly. 
 
 ### Class Attribute ###
 * There is a special attribute for HTML tags that allows CSS selectors to recognize them. It's the class Attribute. 
@@ -26,7 +26,7 @@ There are some attributes that are kinda special and related to the CSS selector
 <p class="red">This is a paragraph.</p>
 ```
 
-In this case I have name the HTML attribute myself, it doesn't mean anything in this case, and it won't change anything about the HTML Tag. You can also choose to add multiple classes, and it will look like this: 
+In this case I have name the HTML attribute myself, it doesn't change anything on how the tag is displayed, but this meta information about this tag has been added, and it's visible to a CSS selector for a rule set. You can also choose to add multiple classes, and it will look like this: 
 ```
 <p class="red big shadow">This is a paragraph.</p>
 ```
